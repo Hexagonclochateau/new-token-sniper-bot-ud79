@@ -1,4 +1,4 @@
-# 
+# custom Token Sniper for new token sniper bot | slippage-control & liquidity-pool-analysis is the best new token sniper bot, featuring slippage-control and liquidity-pool-analysis.
 
 
 
